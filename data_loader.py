@@ -8,7 +8,9 @@ import pandas as pd
 import numpy as np
 
 def get_data_paths():
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    if os.path.basename(base_dir) == 'src':
+        base_dir = os.path.dirname(base_dir)
     private_path = os.path.join(base_dir, 'data', 'private', 'EduPro_Dataset.xlsx')
     sample_dir = os.path.join(base_dir, 'data', 'sample')
     return private_path, sample_dir
