@@ -1,0 +1,61 @@
+TeacherID,Age,Gender,Expertise,YearsOfExperience,TeacherRating
+TC00001,44.0,Female,Cybersecurity,6.0,3.24
+TC00002,32.0,Female,Digital Marketing,9.0,4.14
+TC00003,32.0,Male,Design,4.0,1.56
+TC00004,34.0,Female,Machine Learning,9.0,4.39
+TC00005,34.0,Male,Finance,2.0,3.11
+TC00006,49.0,Male,Cybersecurity,14.0,3.36
+TC00007,28.0,Female,Machine Learning,6.0,4.36
+TC00008,41.0,Male,Data Science,15.0,3.54
+TC00009,49.0,Female,Project Management,2.0,2.22
+TC00010,29.0,Male,Data Science,1.0,2.18
+TC00011,37.0,Female,Artificial Intelligence,8.0,3.55
+TC00012,48.0,Female,Cybersecurity,2.0,3.85
+TC00013,35.0,Female,Digital Marketing,6.0,3.42
+TC00014,49.0,Male,Project Management,3.0,2.45
+TC00015,43.0,Male,Data Science,7.0,3.07
+TC00016,33.0,Male,Data Science,1.0,2.92
+TC00017,36.0,Male,Digital Marketing,4.0,2.33
+TC00018,47.0,Female,Project Management,11.0,4.28
+TC00019,35.0,Male,Digital Marketing,8.0,3.4
+TC00020,44.0,Female,Digital Marketing,10.0,3.23
+TC00021,34.0,Female,Machine Learning,2.0,3.99
+TC00022,33.0,Male,Digital Marketing,3.0,2.5
+TC00023,32.0,Male,Finance,4.0,2.99
+TC00024,40.0,Male,Digital Marketing,6.0,4.22
+TC00025,29.0,Male,Web Development,4.0,2.17
+TC00026,29.0,Male,Web Development,1.0,2.83
+TC00027,44.0,Female,Artificial Intelligence,3.0,1.55
+TC00028,27.0,Female,Business,3.0,1.06
+TC00029,50.0,Male,Artificial Intelligence,2.0,3.1
+TC00030,50.0,Male,Artificial Intelligence,6.0,3.01
+TC00031,47.0,Female,Cybersecurity,1.0,1.86
+TC00032,44.0,Male,Cybersecurity,1.0,3.11
+TC00033,39.0,Female,Design,12.0,4.04
+TC00034,38.0,Male,Web Development,3.0,2.79
+TC00035,27.0,Male,Digital Marketing,5.0,3.13
+TC00036,28.0,Male,Digital Marketing,4.0,1.39
+TC00037,47.0,Male,Finance,8.0,4.39
+TC00038,43.0,Male,Digital Marketing,1.0,2.38
+TC00039,34.0,Male,Finance,7.0,3.31
+TC00040,49.0,Male,Cybersecurity,24.0,4.58
+TC00041,46.0,Male,Artificial Intelligence,7.0,3.55
+TC00042,49.0,Female,Machine Learning,21.0,4.97
+TC00043,30.0,Female,Project Management,1.0,1.05
+TC00044,27.0,Male,Finance,4.0,2.61
+TC00045,28.0,Female,Web Development,5.0,1.07
+TC00046,33.0,Male,Cybersecurity,6.0,3.87
+TC00047,27.0,Male,Design,4.0,1.79
+TC00048,30.0,Male,Finance,7.0,3.18
+TC00049,46.0,Female,Machine Learning,6.0,3.46
+TC00050,32.0,Female,Digital Marketing,3.0,3.41
+TC00051,36.0,Female,Design,2.0,1.77
+TC00052,34.0,Female,Business,12.0,3.43
+TC00053,35.0,Male,Marketing,9.0,4.29
+TC00054,40.0,Female,Artificial Intelligence,7.0,4.28
+TC00055,47.0,Female,Cybersecurity,12.0,3.53
+TC00056,35.0,Female,Programming,9.0,3.95
+TC00057,44.0,Male,Data Science,7.0,3.44
+TC00058,49.0,Male,Web Development,7.0,3.71
+TC00059,48.0,Female,Cybersecurity,6.0,3.82
+TC00060,48.0,Female,Project Management,14.0,3.32
